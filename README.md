@@ -1,4 +1,4 @@
-# Un blog para aprender :tw-1f525:
+# Un blog para aprender 
 Este es un blog que ayuda a estudiantes como yo, te enfoca, te hace practicar y  crecer.
 > Estoy siguiendo con DS e IA y este curso es un gran complemento del mismo.
 > - Juampi
