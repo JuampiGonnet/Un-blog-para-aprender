@@ -11,5 +11,6 @@ Este es un blog que ayuda a estudiantes como yo, te enfoca, te hace practicar y 
 - La conocemos a la amiga Annita
 - Creado por Juampi
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 
 Y con esto terminamos este **README.md** a modo de práctica.
