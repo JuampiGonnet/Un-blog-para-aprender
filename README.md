@@ -9,5 +9,6 @@ Este es un blog que ayuda a estudiantes como yo, te enfoca, te hace practicar y 
 - El verdadero amor por las buenas practicas
 - Trucos muy locos del amigo Freddy
 - La conocemos a la amiga Annita
+- Creado por Juampi
 
 Y con esto terminamos este **README.md** a modo de práctica.
